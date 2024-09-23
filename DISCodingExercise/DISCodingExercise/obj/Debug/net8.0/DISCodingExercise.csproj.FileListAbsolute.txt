@@ -1,0 +1,14 @@
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\bin\Debug\net8.0\DISCodingExercise.exe
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\bin\Debug\net8.0\DISCodingExercise.deps.json
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\bin\Debug\net8.0\DISCodingExercise.runtimeconfig.json
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\bin\Debug\net8.0\DISCodingExercise.dll
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\bin\Debug\net8.0\DISCodingExercise.pdb
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\obj\Debug\net8.0\DISCodingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\obj\Debug\net8.0\DISCodingExercise.AssemblyInfoInputs.cache
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\obj\Debug\net8.0\DISCodingExercise.AssemblyInfo.cs
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\obj\Debug\net8.0\DISCodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\obj\Debug\net8.0\DISCodingExercise.dll
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\obj\Debug\net8.0\refint\DISCodingExercise.dll
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\obj\Debug\net8.0\DISCodingExercise.pdb
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\obj\Debug\net8.0\DISCodingExercise.genruntimeconfig.cache
+C:\Users\appan\source\repos\DISCodingExercise\DISCodingExercise\obj\Debug\net8.0\ref\DISCodingExercise.dll

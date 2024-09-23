@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|c:\\users\\appan\\source\\repos\\discodingexercise\\discodingexercise\\discodingexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|solutionrelative:discodingexercise\\discodingexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|c:\\users\\appan\\source\\repos\\discodingexercise\\discodingexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|solutionrelative:discodingexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|c:\\users\\appan\\source\\repos\\discodingexercise\\discodingexercise\\payinformation\\payinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|solutionrelative:discodingexercise\\payinformation\\payinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|c:\\users\\appan\\source\\repos\\discodingexercise\\discodingexercise\\models\\timecardrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|solutionrelative:discodingexercise\\models\\timecardrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|c:\\users\\appan\\source\\repos\\discodingexercise\\discodingexercise\\models\\ratetablerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|solutionrelative:discodingexercise\\models\\ratetablerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|c:\\users\\appan\\source\\repos\\discodingexercise\\discodingexercise\\models\\paysummaryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F30A53C-F585-4933-88EF-FBC37F94EF43}|DISCodingExercise\\DISCodingExercise.csproj|solutionrelative:discodingexercise\\models\\paysummaryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayInformation.cs",
+              "DocumentMoniker": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\PayInformation\\PayInformation.cs",
+              "RelativeDocumentMoniker": "DISCodingExercise\\PayInformation\\PayInformation.cs",
+              "ToolTip": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\PayInformation\\PayInformation.cs",
+              "RelativeToolTip": "DISCodingExercise\\PayInformation\\PayInformation.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:48:43.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaySummaryRecord.cs",
+              "DocumentMoniker": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\Models\\PaySummaryRecord.cs",
+              "RelativeDocumentMoniker": "DISCodingExercise\\Models\\PaySummaryRecord.cs",
+              "ToolTip": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\Models\\PaySummaryRecord.cs",
+              "RelativeToolTip": "DISCodingExercise\\Models\\PaySummaryRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:41:49.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RateTableRow.cs",
+              "DocumentMoniker": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\Models\\RateTableRow.cs",
+              "RelativeDocumentMoniker": "DISCodingExercise\\Models\\RateTableRow.cs",
+              "ToolTip": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\Models\\RateTableRow.cs",
+              "RelativeToolTip": "DISCodingExercise\\Models\\RateTableRow.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:40:13.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimecardRecord.cs",
+              "DocumentMoniker": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\Models\\TimecardRecord.cs",
+              "RelativeDocumentMoniker": "DISCodingExercise\\Models\\TimecardRecord.cs",
+              "ToolTip": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\Models\\TimecardRecord.cs",
+              "RelativeToolTip": "DISCodingExercise\\Models\\TimecardRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:26:31.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DISCodingExercise.csproj",
+              "DocumentMoniker": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\DISCodingExercise.csproj",
+              "RelativeDocumentMoniker": "DISCodingExercise\\DISCodingExercise.csproj",
+              "ToolTip": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\DISCodingExercise.csproj",
+              "RelativeToolTip": "DISCodingExercise\\DISCodingExercise.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T07:21:04.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\Program.cs",
+              "RelativeDocumentMoniker": "DISCodingExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\appan\\source\\repos\\DISCodingExercise\\DISCodingExercise\\Program.cs",
+              "RelativeToolTip": "DISCodingExercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:19:59.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
